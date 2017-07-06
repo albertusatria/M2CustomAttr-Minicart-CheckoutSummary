@@ -1,8 +1,7 @@
 # M2 Module Display Custom Attribute(s)
 
-Purpose
--------------
-To show custom product attributes with code "display_pn" on minicart header and summmary checkout page. Feel free to download and change the attribute code with to suite your needs.
+>To show custom product attributes with code "display_pn" on minicart header and summmary checkout page.
+Feel free to download and change the attribute code to suite your needs.
 
 
 Installing
